@@ -1,0 +1,15 @@
+# ignore
+*.g
+*.gch
+*.o
+*.out
+*.Identifier
+
+Planetoid
+*.pyc
+*.pyo
+
+__pycache__
+*.so
+*.dylib
+.DS_Store
